@@ -5,7 +5,6 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "build": "SET NODE_ENV=Production & run build",
     "start": "SET NODE_ENV=Production & node server.js",
     "dev": "SET NODE_ENV=Development & nodemon server.js"
   },
